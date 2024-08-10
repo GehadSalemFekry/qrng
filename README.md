@@ -48,5 +48,5 @@ This project aims to create and analyze a Quantum Random Number Generator (QRNG)
    - Use `visualization_analysis.ipynb` to visualize and analyze the results from different stages.
 
 ## Contact
-For any questions or further information, please contact authors .
+For any questions or further information,  please consult the report `QRNG.pdf ` or contact the authors . 
 
